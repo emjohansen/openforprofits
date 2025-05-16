@@ -1,0 +1,6 @@
+{
+  "firebase_hosting": {
+    "deploymentHostingUrl": "https://bizprofit-analyzer.web.app"
+  },
+  "cloud_run_deploy": {}
+}
